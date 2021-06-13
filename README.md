@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pip-delorean. Also known as Pip Loran.
+- 👀 I’m interested in Laravel, Python, Electron, other neat stuff.
+- 🌱 I’m currently learning see above.
+- 💞️ I’m looking to collaborate on idk surprise me.
+- 📫 How to reach me it's probably best that you don't.
